@@ -6,9 +6,9 @@ I code stuff, break stuff, then fix it (or give up and cry)
 - 💻 Mainly coding in **C#**
 - 🦍 Gorilla Tag Modder
 - 🎮 Plays too much Vr, specifically Gorilla Tag
-- 🛠️ I just do random stuff cuz why not ;)
+- 🛠️ Developer for DTASLOI
 
-## 🧰 languages & tools
+## 🧰 Languages & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=cs,py,html,js,ts,unity,blender,git,github,rider,idea" />
 </p>
