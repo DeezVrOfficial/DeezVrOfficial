@@ -3,10 +3,10 @@
 I code stuff, break stuff, then fix it (or give up and cry)
 
 ## 🧠 about me
-- 💻 mainly coding in **C#**
-- 🦍 gorilla tag modder
-- 🎮 plays too much vr, specifically VRChat
-- 🛠️ i just do random stuff cuz why not
+- 💻 Mainly coding in **C#**
+- 🦍 Gorilla Tag Modder
+- 🎮 Plays too much Vr, specifically Gorilla Tag
+- 🛠️ I just do random stuff cuz why not ;)
 
 ## 🧰 languages & tools
 <p>
