@@ -22,7 +22,7 @@ I code stuff, break stuff, then fix it (or give up and cry)
 ## 🚀 projects
 > i actually do stuff sometimes
 
-- 🔗 [DTASLOI](https://github.com/DeezVrOfficial/DTASLOI)  
+- 🔗 [DTASLOI](https://discord.gg/invite/ejtkG9zVpY)  
   → most clean, and high quality gorilla tag mod checker out there
 
 - 🔗 [Deez Nametags](https://github.com/DeezVrOfficial)
