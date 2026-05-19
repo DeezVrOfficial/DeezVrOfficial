@@ -2,6 +2,9 @@
 
 I code stuff, break stuff, then fix it (or give up and cry)
 
+# Currently Doing
+- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31drkrjrhwsc34aecdlibdpp55o4&unique={true|1|on|yes})
+
 ## 🧠 about me
 - 💻 Mainly coding in **C#**
 - 🦍 Gorilla Tag Modder
