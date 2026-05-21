@@ -3,11 +3,12 @@
 I code stuff, break stuff, then fix it (or give up and cry)
 
 # Status
+
 <p align="center">
-    <img src="https://lanyard.cnrad.dev/api/997927020564590655?animated=true&theme=dark&bg=1a1b27&borderRadius=20px" />
+  <a href="https://lanyard.cnrad.dev">
+    <img src="https://lanyard.cnrad.dev/api/832552302027079710?animated=true&theme=dark&bg=1a1b27&borderRadius=20px" />
   </a>
 </p>
-
 
 # Currently Doing
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/997927020564590655)
