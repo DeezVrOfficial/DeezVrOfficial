@@ -13,7 +13,7 @@ I code stuff, break stuff, then fix it (or give up and cry)
 # Currently Doing
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/997927020564590655)
 ![vscode](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/997927020564590655)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/997927020564590655)
+![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/997927020564590655)
 
 ## 🧠 about me
 - 💻 Mainly coding in **C#**
