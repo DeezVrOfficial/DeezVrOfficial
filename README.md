@@ -2,11 +2,18 @@
 
 I code stuff, break stuff, then fix it (or give up and cry)
 
+# Status
+<p align="center">
+  <a href="https://lanyard.cnrad.dev">
+    <img src="https://lanyard.cnrad.dev/api/997927020564590655?animated=true&theme=dark&bg=1a1b27&borderRadius=20px" />
+  </a>
+</p>
+
+
 # Currently Doing
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/997927020564590655?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/997927020564590655)
 ![vscode](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/997927020564590655)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/997927020564590655)](https://dev.discordprofiles.me/openspotify/997927020564590655)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/997927020564590655)
 
 ## 🧠 about me
 - 💻 Mainly coding in **C#**
