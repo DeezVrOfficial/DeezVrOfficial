@@ -16,7 +16,7 @@ I code stuff, break stuff, then fix it (or give up and cry)
 - 💻 Mainly coding in **C#**
 - 🦍 Gorilla Tag Modder
 - 🎮 Plays too much Vr, specifically Gorilla Tag
-- 🛠️ Developer for DTASLOI
+- 🛠️ Developer for Anthropic
 
 ## 🧰 Languages & Tools
 <p>
