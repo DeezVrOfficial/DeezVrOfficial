@@ -47,7 +47,6 @@ I code stuff, break stuff, then fix it (or give up and cry)
 
 ## 🌐 socials
 - 💬 discord: https://discord.gg/mMZev2ST8q
-- 🌍 https://hamburbur.uk
 
 ---
 
