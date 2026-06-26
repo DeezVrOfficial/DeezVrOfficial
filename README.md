@@ -13,9 +13,7 @@ I code stuff, break stuff, then fix it (or give up and cry)
 ![vscode](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/997927020564590655)
 
 ## 🧠 about me
-- 💻 Mainly coding in **C#**
-- 🦍 Gorilla Tag Modder
-- 🎮 Plays too much Vr, specifically Gorilla Tag
+- 💻 Mainly coding in **Lua**
 - 🛠️ Developer for [DTASLOI](https://github.com/DTASLOI/DTASLOI)
 
 ## 🧰 Languages & Tools
