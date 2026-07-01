@@ -14,7 +14,7 @@ I code stuff, break stuff, then fix it (or give up and cry)
 
 ## 🧠 about me
 - 💻 Mainly coding in **Lua**
-- 🛠️ Developer for [DTASLOI](https://github.com/DTASLOI/DTASLOI)
+- 🛠️ Developer for [DTASLOI](https://discord.gg/invite/ejtkG9zVpY)
 
 ## 🧰 Languages & Tools
 <p>
@@ -24,7 +24,7 @@ I code stuff, break stuff, then fix it (or give up and cry)
 ## 🚀 projects
 > i actually do stuff sometimes
 
-- 🔗 [DTASLOI](https://discord.gg/invite/ejtkG9zVpY)  
+- 🔗 [DTASLOI](https://github.com/DTASLOI/DTASLOI)  
   → most clean, and high quality gorilla tag mod checker out there
 
 - 🔗 [Deez Nametags](https://github.com/DeezVrOfficial)
