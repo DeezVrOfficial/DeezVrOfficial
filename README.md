@@ -13,8 +13,8 @@ I code stuff, break stuff, then fix it (or give up and cry)
 ![vscode](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1519954787775549480)
 
 ## 🧠 about me
-- 💻 Mainly coding in **Lua**
-- 🛠️ Developer for [DTASLOI](https://discord.gg/invite/ejtkG9zVpY)
+- 💻 Mainly coding in **C#**
+- 🛠️ Developer for [DTASLOI](https://discord.gg/invite/dtasloi-1455743388132315240)
 
 ## 🧰 Languages & Tools
 <p>
@@ -44,7 +44,7 @@ I code stuff, break stuff, then fix it (or give up and cry)
 </p>
 
 ## 🌐 socials
-- 💬 discord: https://discord.gg/mMZev2ST8q
+- 💬 discord: https://discord.com/users/1519954787775549480
 
 ---
 
