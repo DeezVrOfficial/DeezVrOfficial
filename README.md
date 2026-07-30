@@ -9,8 +9,8 @@ I code stuff, break stuff, then fix it (or give up and cry)
 </p>
 
 # Currently Doing
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/997927020564590655)
-![vscode](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/997927020564590655)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1519954787775549480)
+![vscode](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1519954787775549480)
 
 ## 🧠 about me
 - 💻 Mainly coding in **Lua**
